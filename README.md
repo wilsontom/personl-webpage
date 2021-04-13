@@ -4,5 +4,4 @@
 
 **My personal webpage available at https://wilsontom.co.uk**
 
-The website is created using the hugo codex theme and deployed using GitHub pages
 
