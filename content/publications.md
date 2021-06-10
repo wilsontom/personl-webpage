@@ -11,7 +11,7 @@ title: "Publications"
   2021
 </h2>
 
-Humphry NA, Wilson TP, Cox MC, Carter B, Arkesteijn M, Reeves NL, Brakenridge S, McCarthy K, Bunni J, Draper J, Hewitt J. [The association of post-operative clinical outcomes with sarcopenia, frailty, and nutritional status in older colorectal cancer patients: A prospective cohort study protocol](https://doi.org/10.2196/16846). JMIR Research Protocols. 24/03/2021:16846 (forthcoming/in press) <span class="ai ai-open-access ai-1x"></span>
+Humphry NA, **Wilson TP**, Cox MC, Carter B, Arkesteijn M, Reeves NL, Brakenridge S, McCarthy K, Bunni J, Draper J, Hewitt J. [The association of post-operative clinical outcomes with sarcopenia, frailty, and nutritional status in older colorectal cancer patients: A prospective cohort study protocol](https://doi.org/10.2196/16846). JMIR Research Protocols. 24/03/2021:16846 (forthcoming/in press) <span class="ai ai-open-access ai-1x"></span>
 
 <h2 id="2020">
   <a href="2020"></a>
