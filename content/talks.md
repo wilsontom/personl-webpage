@@ -45,6 +45,8 @@ draft: false
   Conference Posters
 </h2>
 
+* **Biomarkers of dietary intake and their association with physical capability assessments** . *International Sarcopenia Translational Research Conference, Virtual, June 2021*
+
 * **Spectral binning and it’s application in high throughput metabolomics and biomarker discovery**. *Metabomeeting, East Midlands Conference Centre, UK, December, 2018*
 
 * **Chemotyping in the field: application of metabolomics to study the metabolome diversity of the bio-energy grass Miscanthus**. *Metabomeeting, Royal Institution, London UK, September 2014*
