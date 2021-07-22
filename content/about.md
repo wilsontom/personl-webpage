@@ -1,6 +1,6 @@
 ---
-title: "Intro"
-date: 2020-10-31
+title: "About"
+date: 2021-07-22
 draft: false
 ---
 

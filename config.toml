@@ -42,10 +42,10 @@ theme = "hugo-theme-codex"
 		weight = 1
 
  	[[menu.main]]
-		identifier = "intro"
- 	        name = "intro"
-		title = "Intro"
-		url = "/intro"
+		identifier = "about"
+ 	        name = "about"
+		title = "About"
+		url = "/about"
 		weight = 2
    
    	[[menu.main]]
