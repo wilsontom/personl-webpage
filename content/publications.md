@@ -1,5 +1,5 @@
 ---
-date: 2021-06-10
+date: 2021-08-24
 draft: false
 title: "Publications"
 ---
@@ -11,7 +11,9 @@ title: "Publications"
   2021
 </h2>
 
-Humphry NA, **Wilson TP**, Cox MC, Carter B, Arkesteijn M, Reeves NL, Brakenridge S, McCarthy K, Bunni J, Draper J, Hewitt J. [The association of post-operative clinical outcomes with sarcopenia, frailty, and nutritional status in older colorectal cancer patients: A prospective cohort study protocol](https://doi.org/10.2196/16846). JMIR Research Protocols. 24/03/2021:16846 (forthcoming/in press) <span class="ai ai-open-access ai-1x"></span>
+Humphry, N.A., **Wilson, T.**, Cox, M.C., Carter, B., Arkesteijn, M., Reeves, N.L., Brakenridge, S., McCarthy, K., Bunni, J., Draper, J. and Hewitt, J., 2021. [Association of Postoperative Clinical Outcomes With Sarcopenia, Frailty, and Nutritional Status in Older Patients With Colorectal Cancer: Protocol for a Prospective Cohort Study](https://doi.org/10.2196/16846). JMIR Research Protocols, 10(8), 2021, p.e16846. <span class="ai ai-open-access ai-1x"></span>
+
+Ni Lochlainn, M., Cox, N.J., **Wilson, T**., Hayhoe, R.P., Ramsay, S.E., Granic, A., Isanejad, M., Roberts, H.C., Wilson, D., Welch, C. and Hurst, C. [Nutrition and frailty: Opportunities for prevention and treatment](https://doi.org/10.3390/nu13072349). Nutrients, 13(7), 2021, p.2349 <span class="ai ai-open-access ai-1x"></span>
 
 <h2 id="2020">
   <a href="2020"></a>
