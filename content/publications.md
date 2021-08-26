@@ -1,5 +1,5 @@
 ---
-date: 2021-08-24
+date: 2021-08-26
 draft: false
 title: "Publications"
 ---
@@ -36,6 +36,10 @@ Lloyd, A. J., **Wilson, T.**, Willis, N. D., Lyons, L., Phillips, H., Janssen, H
 
 
 **Thomas Wilson**, Isabel Garcia-Perez, Joram M Posma, Amanda J Lloyd, Edward S Chambers, Kathleen Tailliart, Hassan Zubair, Manfred Beckmann, John C Mathers, Elaine Holmes, Gary Frost, John Draper, [Spot and Cumulative Urine Samples Are Suitable Replacements for 24-Hour Urine Collections for Objective Measures of Dietary Exposure in Adults Using Metabolite Biomarkers](https://doi.org/10.1093/jn/nxz138), The Journal of Nutrition, Volume 149, Issue 10, October 2019, Pages 1692–1700 
+
+
+Humphry, N., **Wilson, T**., Cox, M. and Hewitt, J., 2019, July. [SARCOPENIA, FRAILTY AND NUTRITIONAL STATUS OF COLORECTAL CANCER SURGICAL PATIENTS AND URINARY BIOMARKERS: STUDY PROTOCOL](https://doi.org/10.1093/ageing/afz063.05), Age and Ageing (Vol. 48), 2019. <span class="ai ai-open-access ai-1x">
+
 
 Lloyd, A. J., Willis, N. D., **Wilson, T**., Zubair, H., Xie, L., Chambers, E., Garcia‐Perez, I., Tailliart, K., Beckmann, M., Mathers, J. C., Draper, J., [Developing a Food Exposure and Urine Sampling Strategy for Dietary Exposure Biomarker Validation in Free‐Living Individuals](https://doi.org/10.1002/mnfr.201900062). Mol. Nutr. Food Res. 2019, 63, 1900062. <span class="ai ai-open-access ai-1x">
 
