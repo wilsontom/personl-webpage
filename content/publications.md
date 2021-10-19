@@ -1,5 +1,5 @@
 ---
-date: 2021-08-26
+date: 2021-10-19
 draft: false
 title: "Publications"
 ---
@@ -10,6 +10,8 @@ title: "Publications"
   <a href="2021"></a>
   2021
 </h2>
+
+**Thomas Wilson**, David Langford, Laura Lyons, Manfred Beckmann, John Draper, Marco Arkesteijn. [BIOMARKERS OF DIETARY INTAKE AND THEIR  ASSOCIATION WITH PHYSICAL CAPABILITY ASSESSMENTS](https://doi.org/10.22540/JFSF-06-163). JFSF Vol 6, No 3, September 2021, p.163-188. <span class="ai ai-open-access ai-1x"></span>
 
 Humphry, N.A., **Wilson, T.**, Cox, M.C., Carter, B., Arkesteijn, M., Reeves, N.L., Brakenridge, S., McCarthy, K., Bunni, J., Draper, J. and Hewitt, J., 2021. [Association of Postoperative Clinical Outcomes With Sarcopenia, Frailty, and Nutritional Status in Older Patients With Colorectal Cancer: Protocol for a Prospective Cohort Study](https://doi.org/10.2196/16846). JMIR Research Protocols, 10(8), 2021, p.e16846. <span class="ai ai-open-access ai-1x"></span>
 
@@ -27,7 +29,7 @@ Beckmann, M., **Wilson, T.**, Zubair, H., Lloyd, A. J., Lyons, L., Phillips, H.,
  Beckmann, M., Lloyd, A. J., **Wilson, T.**, Torres, D. P. M., Goios, A. C. L., Willis, N. D., Lyons, L., Phillips, H., Mathers, J. C., Nash, R. J., Sharp, H., Draper, J., [Calystegines are Potential Urine Biomarkers for Dietary Exposure to Potato Products](https://doi.org/10.1002/mnfr.202000515). Mol. Nutr. Food Res. 2020, 2000515. <span class="ai ai-open-access ai-1x">
 
 
-Lloyd, A. J., **Wilson, T.**, Willis, N. D., Lyons, L., Phillips, H., Janssen, H. G., Stiegler, M., Xie, L., Tailliart, K., Beckmann, M., Stevenson, L., Mathers, J. C. and Draper, J. (2020) [Developing community-based urine sampling methods to deploy biomarker technology for the assessment of dietary exposure](https://doi:10.1017/S136898002000097X). Public Health Nutrition. Cambridge University Press, pp. 1–12. <span class="ai ai-open-access ai-1x">
+Lloyd, A. J., **Wilson, T.**, Willis, N. D., Lyons, L., Phillips, H., Janssen, H. G., Stiegler, M., Xie, L., Tailliart, K., Beckmann, M., Stevenson, L., Mathers, J. C. and Draper, J. (2020) [Developing community-based urine sampling methods to deploy biomarker technology for the assessment of dietary exposure](https://doi.org/10.1017/S136898002000097X). Public Health Nutrition. Cambridge University Press, pp. 1–12. <span class="ai ai-open-access ai-1x">
 
 <h2 id="2019">
   <a href="2019"></a>
