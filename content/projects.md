@@ -6,7 +6,7 @@ draft: false
 
 <h3 id="Postdoctoral Research Projects">
   <a href="Postdoctoral Research Projects"></a>
-  Postdoctoral Research Projects
+  Funded Research Projects
 </h3>
 
 
