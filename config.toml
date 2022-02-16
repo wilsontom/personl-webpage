@@ -75,5 +75,11 @@ theme = "hugo-theme-codex"
 		url = "/projects"
 		weight = 4
 
+	[[menu.main]]
+		identifier = "open source"
+		name = "open source"
+		title = "open source"
+		url = "/open-source"
+		weight = 4
 
 
