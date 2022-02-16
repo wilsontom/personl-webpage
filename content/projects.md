@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-date: 2020-11-12
+date: 2021-02-16
 draft: false
 ---
 
@@ -8,6 +8,18 @@ draft: false
   <a href="Postdoctoral Research Projects"></a>
   Postdoctoral Research Projects
 </h3>
+
+
+
+<h4 id="Dietary patterns, microbiome, metabolome and cardiovascular disease risk in transitioning India">
+  <a href="GCRF"></a>
+  <li>Dietary patterns, microbiome, metabolome and cardiovascular disease risk in transitioning India (MRC GCRF)</li>
+</h4>
+
+*July 2021 - Present*
+
+Transfering analytical methodology for high throughput metabolomics of human bio-fluids to Yenepoya University (Mangalore). 
+
 
 <h4 id="Future Foods">
   <a href="Future Foods"></a>
