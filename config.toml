@@ -47,14 +47,21 @@ theme = "hugo-theme-codex"
 		title = "About"
 		url = "/about"
 		weight = 2
-   
-   	[[menu.main]]
+	
+	[[menu.main]]
 		identifier = "cv"
 		name = "cv"
 		title = "cv"
 		url = "/cv"
 		weight = 3
-		
+
+	[[menu.main]]
+		identifier = "projects"
+		name = "projects"
+		title = "projects"
+		url = "/projects"
+		weight = 4
+
 	[[menu.main]]
 		identifier = "publications"
 		name = "publications"
@@ -66,13 +73,6 @@ theme = "hugo-theme-codex"
 		name = "talks"
 		title = "talks"
 		url = "/talks"
-		weight = 4
-
-	[[menu.main]]
-		identifier = "projects"
-		name = "projects"
-		title = "projects"
-		url = "/projects"
 		weight = 4
 
 	[[menu.main]]
