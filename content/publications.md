@@ -1,10 +1,25 @@
 ---
-date: 2021-10-19
+date: 2022-08-16
 draft: false
 title: "Publications"
 ---
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+
+<h2 id="2022">
+  <a href="2022"></a>
+  2022
+</h2>
+
+
+Finch, J.P., **Wilson, T**., Lyons, L., Phillips, H., Beckmann, M. and Draper, J., 2022. [Spectral binning as an approach to post-acquisition processing of high resolution FIE-MS metabolome fingerprinting data](https://doi.org/10.1007/s11306-022-01923-6). Metabolomics, 18(8), pp.1-9. <span class="ai ai-open-access ai-1x"></span>
+
+Haigh, L., Govaere, O., Brownlee, L., Charman, S., Blain, A., **Wilson, T**., Karsdal, M., Mcpherson, S., Mathers, J. and Anstee, Q., 2022. [A meditarranean diet intervention has beneficial effects on biomarkers of cardiovascular risk and hepatic fibrosis in non-alcoholic fatty liver disease (NAFLD)](https://doi.org/10.1016/S0168-8278(22)01788-3). Journal of Hepatology, 77, pp.S733-S734.
+
+
+Pol Castellano-Escuder, Raúl González-Domínguez, Marie-France Vaillant, Patricia Casas-Agustench, Nicole Hidalgo-Liberona, Núria Estanyol-Torres, **Thomas Wilson**, Manfred Beckmann, Amanda J. Lloyd, Marion Oberli, Christophe Moinard, Christophe Pison, Jean-Christian Borel, Marie Joyeux-Faure, Mariette Sicard, Svetlana Artemova, Hugo Terrisse, Paul Dancer, John Draper, Alex Sánchez-Pla, and Cristina Andres-Lacueva. [Assessing Adherence to Healthy Dietary Habits Through the Urinary Food Metabolome: Results From a European Two-Center Study](https://doi.org/10.3389/fnut.2022.880770). Frontiers in Nutrition: 1193, 2022. <span class="ai ai-open-access ai-1x"></span>
+
 
 <h2 id="2021">
   <a href="2021"></a>
@@ -13,7 +28,7 @@ title: "Publications"
 
 **Thomas Wilson**, David Langford, Laura Lyons, Manfred Beckmann, John Draper, Marco Arkesteijn. [BIOMARKERS OF DIETARY INTAKE AND THEIR  ASSOCIATION WITH PHYSICAL CAPABILITY ASSESSMENTS](https://doi.org/10.22540/JFSF-06-163). JFSF Vol 6, No 3, September 2021, p.163-188. <span class="ai ai-open-access ai-1x"></span>
 
-Humphry, N.A., **Wilson, T.**, Cox, M.C., Carter, B., Arkesteijn, M., Reeves, N.L., Brakenridge, S., McCarthy, K., Bunni, J., Draper, J. and Hewitt, J., 2021. [Association of Postoperative Clinical Outcomes With Sarcopenia, Frailty, and Nutritional Status in Older Patients With Colorectal Cancer: Protocol for a Prospective Cohort Study](https://doi.org/10.2196/16846). JMIR Research Protocols, 10(8), 2021, p.e16846. <span class="ai ai-open-access ai-1x"></span>
+Humphry, N.A., **Wilson, T.**, Cox, M.C., Carter, B., Arkesteijn, M., Reeves, N.L., Brakenridge, S., McCarthy, K., Bunni, J., Draper, J. and Hewitt, J. [Association of Postoperative Clinical Outcomes With Sarcopenia, Frailty, and Nutritional Status in Older Patients With Colorectal Cancer: Protocol for a Prospective Cohort Study](https://doi.org/10.2196/16846). JMIR Research Protocols, 10(8), 2021, p.e16846. <span class="ai ai-open-access ai-1x"></span>
 
 Ni Lochlainn, M., Cox, N.J., **Wilson, T**., Hayhoe, R.P., Ramsay, S.E., Granic, A., Isanejad, M., Roberts, H.C., Wilson, D., Welch, C. and Hurst, C. [Nutrition and frailty: Opportunities for prevention and treatment](https://doi.org/10.3390/nu13072349). Nutrients, 13(7), 2021, p.2349 <span class="ai ai-open-access ai-1x"></span>
 

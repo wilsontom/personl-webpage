@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-date: 2021-02-16
+date: 2022-08-16
 draft: false
 ---
 
@@ -8,7 +8,6 @@ draft: false
   <a href="Postdoctoral Research Projects"></a>
   Funded Research Projects
 </h3>
-
 
 
 <h4 id="Dietary patterns, microbiome, metabolome and cardiovascular disease risk in transitioning India">
@@ -26,7 +25,7 @@ Transfering analytical methodology for high throughput metabolomics of human bio
   <li> Future Foods (ERDF/WEFO)</li>
 </h4>
 
-*January 2020 - Present*
+*January 2020 - May 2022*
 
 Working with food and drink SMEs acrosss Wales on R&D projects designed to boost their competitiveness. Particular focus is on working with companies with an interest in alternative protein sources.  [More info](https://www.futurefoods.wales/)
 

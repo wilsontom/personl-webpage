@@ -1,5 +1,5 @@
 baseURL = "http://www.wilsontom.co.uk/"
-languageCode = "en-us"
+languageCode = "en-uk"
 title = "wilsontom.co.uk"
 copyright = "© {year} Thomas P Wilson"
 relativeURLs = true
@@ -74,12 +74,4 @@ theme = "hugo-theme-codex"
 		title = "talks"
 		url = "/talks"
 		weight = 6
-
-	[[menu.main]]
-		identifier = "open source"
-		name = "open source"
-		title = "open source"
-		url = "/open-source"
-		weight = 7
-
 
